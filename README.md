@@ -6,6 +6,8 @@ Welcome to the ultimate journey of mastering HTML, where we start from scratch a
 
 Inside this repository, you'll find a comprehensive collection of HTML notes tailored for frontend developers. Whether you're a beginner looking to grasp the fundamentals or an experienced developer aiming to enhance your skills, these notes cover everything from the basics to advanced HTML techniques.
 
+**Best Resource For HTML:** <a href="https://www.w3schools.com/html/">w3School</a>
+
 🛠️ **What's Included?**
 
 - In-depth explanations of HTML tags and attributes
