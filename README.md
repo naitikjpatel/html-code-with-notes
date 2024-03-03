@@ -8,6 +8,8 @@ Inside this repository, you'll find a comprehensive collection of HTML notes tai
 
 **Best Resource For HTML:** <a href="https://www.w3schools.com/html/">w3School</a>
 
+**Notes of HTML:**<a href="notes">Click Here</a>
+
 🛠️ **What's Included?**
 
 - In-depth explanations of HTML tags and attributes
